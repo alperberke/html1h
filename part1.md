@@ -236,7 +236,7 @@ Bu derste normal video kullanımı ve otomatik başlayıp tekrar eden video kull
 
 ---
 
-# Ders 7: Metin Biçimlendirme
+# Ders 6: Metin Biçimlendirme
 
 ## Bu Derste Ne Öğreniyoruz?
 
